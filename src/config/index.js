@@ -3,14 +3,14 @@ import featuredProjects from './featured';
 import projects from './projects';
 
 module.exports = {
-  email: 'jrgarciadev@gmail.com',
+  email: 'pradeepmsblogspot@gmail.com',
   featuredProjects,
   projects,
-  skills: ['JavaScript', 'TypeScript', 'React Native', 'React', 'Next.js', 'GraphQL'],
+  skills: ['JavaScript', 'TypeScript', 'React Native', 'React', 'Next.js', 'Angular'],
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/jrgarciadev',
+      url: 'https://github.com/Pradeep976',
     },
     {
       name: 'Linkedin',
